@@ -1,0 +1,4 @@
+Issue numero 7 = crear html para las Sinsombrero de id 9
+Commit = Creacion del HTML de Safo de Lesbos
+
+ 
