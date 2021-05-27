@@ -1,4 +1,36 @@
-Issue numero 7 = crear html para las Sinsombrero de id 9
+Issue numero 5 = crear html para Safo de Lesbos de id 1
 Commit = Creacion del HTML de Safo de Lesbos
 
- 
+Issue numero 9 = crear html para Ana Caro de Mallén de id 2
+Commit = Creacion del HTML de Ana Caro de Mallén
+
+Issue numero 13 = crear html para Maria de Zayas y Sotomayor de id 3
+Commit = Creacion del HTML de Maria de Zayas y Sotomayor
+
+Issue numero 14 = crear html para Mary Shelley de id 4
+Commit = Creacion del HTML de Mary Shelley
+
+Issue numero 18 = crear html para Emily y Bronte de id 5
+Commit = Creacion del HTML de Emily y Bronte
+
+Issue numero 20 = crear html para Emilia Pardo Bazán de id 6
+Commit = Creacion del HTML de Emilia Pardo Bazán
+
+Issue numero 21 = crear html para Jane Austen de id 7
+Commit = Creacion del HTML de Jane Austen Bazán
+
+Issue numero 21 = crear html para Jane Austen de id 7
+Commit = Creacion del HTML de Jane Austen Bazán
+
+Issue numero 26 = crear html para Alenjandra Pizarnik de id 16
+Commit = Creacion del HTML de Alejandra Pizarnik
+
+
+
+
+
+
+
+
+
+
