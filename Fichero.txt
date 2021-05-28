@@ -1,6 +1,9 @@
 Issue numero 5 = crear html para Safo de Lesbos de id 1
 Commit = Creacion del HTML de Safo de Lesbos
 
+Issue numero 7 = crear html para las Sinsombrero de id 9
+Commit = Creacion del HTML de Safo de Lesbos 
+
 Issue numero 9 = crear html para Ana Caro de Mallén de id 2
 Commit = Creacion del HTML de Ana Caro de Mallén
 
