@@ -22,9 +22,6 @@ Commit = Creacion del HTML de Emilia Pardo Bazán
 Issue numero 21 = crear html para Jane Austen de id 7
 Commit = Creacion del HTML de Jane Austen Bazán
 
-Issue numero 21 = crear html para Jane Austen de id 7
-Commit = Creacion del HTML de Jane Austen Bazán
-
 Issue numero 26 = crear html para Alenjandra Pizarnik de id 16
 Commit = Creacion del HTML de Alejandra Pizarnik
 
